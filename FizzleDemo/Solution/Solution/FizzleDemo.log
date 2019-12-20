@@ -1,0 +1,14 @@
+﻿Build started 1/25/2016 3:57:23 PM.
+     1>Project "C:\Users\100578667\Documents\Visual Studio 2013\Projects\FizzleDemo_UPDATED_Jan17\FizzleDemo\Solution\FizzleDemo.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of main.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\Source\main.cpp, Main.cpp.
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\100578667\Documents\Visual Studio 2013\Projects\FizzleDemo_UPDATED_Jan17\FizzleDemo\Solution\..\bin\x64\Debug\FizzleDemo.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\100578667\Documents\Visual Studio 2013\Projects\FizzleDemo_UPDATED_Jan17\FizzleDemo\Solution\../ThirdParty/lib" Fizzle\x64\Debug\Fizzle.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\100578667\Documents\Visual Studio 2013\Projects\FizzleDemo_UPDATED_Jan17\FizzleDemo\Solution\..\bin\x64\Debug\FizzleDemo.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\100578667\Documents\Visual Studio 2013\Projects\FizzleDemo_UPDATED_Jan17\FizzleDemo\Solution\..\bin\x64\Debug\FizzleDemo.lib" /MACHINE:X64 "C:\Users\100578667\Documents\Visual Studio 2013\Projects\FizzleDemo_UPDATED_Jan17\FizzleDemo\Solution\Solution\main.obj"
+         "C:\Users\100578667\Documents\Visual Studio 2013\Projects\FizzleDemo_UPDATED_Jan17\FizzleDemo\Solution\Solution\Main.obj"
+     1>C:\Users\100578667\Documents\Visual Studio 2013\Projects\FizzleDemo_UPDATED_Jan17\FizzleDemo\Solution\Solution\Main.obj : warning LNK4042: object specified more than once; extras ignored
+     1>MSVCRTD.lib(crtexe.obj) : error LNK2019: unresolved external symbol main referenced in function __tmainCRTStartup
+     1>C:\Users\100578667\Documents\Visual Studio 2013\Projects\FizzleDemo_UPDATED_Jan17\FizzleDemo\Solution\..\bin\x64\Debug\FizzleDemo.exe : fatal error LNK1120: 1 unresolved externals
+     1>Done Building Project "C:\Users\100578667\Documents\Visual Studio 2013\Projects\FizzleDemo_UPDATED_Jan17\FizzleDemo\Solution\FizzleDemo.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.28

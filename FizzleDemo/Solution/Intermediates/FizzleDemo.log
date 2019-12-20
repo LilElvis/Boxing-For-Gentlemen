@@ -1,0 +1,14 @@
+﻿Build started 4/15/2016 8:12:16 PM.
+     1>Project "C:\Users\100578667\Documents\Visual Studio 2013\Projects\Boxing For Gentlemen\FizzleDemo\FizzleDemo\Solution\FizzleDemo.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         FizzleDemo.vcxproj -> C:\Users\100578667\Documents\Visual Studio 2013\Projects\Boxing For Gentlemen\FizzleDemo\FizzleDemo\Solution\..\bin\Win32\Release\FizzleDemo.exe
+       PostBuildEvent:
+         ../copydeps Win32 Release
+         :VCEnd
+         C:\Users\100578667\Documents\Visual Studio 2013\Projects\Boxing For Gentlemen\FizzleDemo\FizzleDemo\\ThirdParty\lib\OpenAL\Win32\Release\OpenAL32.dll
+         1 File(s) copied
+     1>Done Building Project "C:\Users\100578667\Documents\Visual Studio 2013\Projects\Boxing For Gentlemen\FizzleDemo\FizzleDemo\Solution\FizzleDemo.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.23
